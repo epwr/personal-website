@@ -1,0 +1,119 @@
+ 	<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+	<title>Welcome</title>
+	<link rel="stylesheet" type="text/css" href="./main.css">
+
+	<script src="./main-preload.js"></script>
+</head>
+<body>
+
+	<div class="interface">
+
+		<!-- TODO:
+			- ISSUE: The hamburger does not change colour on hover
+				- IDEA: ignore, change the next issue.
+			- ISSUE: The menu does not close on mobile until you click outside the hamburger
+				- IDEA: have the JS set to hidden, get rid of hover function on hamburger.
+
+		 -->
+	
+		<header class="section">
+			<nav class="menu-oneline">
+				<label for="menu-hamburger" class="menu-hamburger-icon-holder">
+					<div class="menu-hamburger-icon-line" style="top:  0px;"></div>
+					<div class="menu-hamburger-icon-line" style="top:  6px;"></div>
+					<div class="menu-hamburger-icon-line" style="top: 12px;"></div>
+				</label>
+				<input type="checkbox" id="menu-hamburger" onclick="menu_hamburger_handler(this)" />
+				
+
+				<a class="logo menu-link" href=".">ericpower.ca</a>
+				<div class="surface paragraph">
+					<div class="menu-cell"><a href="./about-me">About&nbsp;Me</a>	</div>
+					<div class="menu-cell"><a href="./pillars">Podcast</a>			</div>
+					<div ><a href="./projects">Projects</a>		</div>
+				</div>
+			</nav>
+		</header>
+
+		<div class="section surface crop">
+			
+			<div class="drop-arrow-container">
+				<input type="checkbox" class="drop-arrow-checkbox" id="drop-arrow"/>
+				<label for="drop-arrow" class="drop-arrow-holder">
+					<div class="drop-arrow-icon-left"></div>
+					<div class="drop-arrow-icon-right"></div>
+				</label>
+			</div>
+
+		</div>
+
+		<div class="section surface crop">
+			<img  src="./assets/ep_forest.jpg" style="width: 100%;">
+			<div class="paragraph">
+				<p>
+					History became interesting to me when I read a biography about Cicero - the brilliant orator and politician of the ancient Roman republic. Since then I've spent time learning about the ancient Roman Republic and Empire, and the 19th and 20th centuries.
+				</p>
+				<div class="spacer"></div>
+				<p>
+					The Roman Republic and Empire gives us example after example of idealized characters from whom we can learn about different philosophies, morals, personalities, and rhetorical strategies.
+				</p>
+				<div class="spacer"></div>
+				<p>
+					More modern history teaches us how our world ended up how it is today. How some systems were set up by different groups for conscious purposes, and how other systems are historical accidents that we have grown to accept without thinking to much about them.
+				</p>
+			</div>
+		</div>
+
+		<div class="section grid grid-1x2">
+			
+			<div class="surface crop grid grid-1-2 full-height">
+				<div style="height: 100%; width: 100%; background-color: var(--accent);">
+					
+				</div>
+				<div class="paragraph" style="padding-left: 0;">
+					<p>This is a paragraph about the podcast. It's not long. It just says you can check it out at the link below.</p>
+					<div class="spacer"></div>
+					<a href="./pillars">Podcast</a>
+				</div>
+			</div>
+
+			<div class="surface crop grid grid-1-2 full-height">
+				<div style="height: 100%; width: 100%; background-color: var(--on-background);">
+					
+				</div>
+				<div class="paragraph" style="padding-left: 0;">
+					<p>This is a paragraph about all my projects. It's not long. It just says you can check them out at the link below.</p>
+					<div class="spacer"></div>
+					<a href="./projects">Projects</a>	
+				</div>
+			</div>
+
+		</div>
+
+		<div class="section surface crop grid grid-1-2">
+				<div style="height: 100%; width: 100%; background-color: var(--accent);">
+					
+				</div>
+				<div class="paragraph" style="padding-left: 0;">
+					<p>For more details on my experience, check out the about me page.</p>
+					<div class="spacer"></div>
+					<a href="./pillars">About Me</a>
+				</div>
+			</div>
+
+		<footer class="section grid grid-1x3">
+			<a href=".">Home</a>
+			<a href=".">Privacy</a>
+			<a href=".">Pillars of our Past</a>			
+		</footer>
+
+	</div>
+
+</body>
+
+</html>
