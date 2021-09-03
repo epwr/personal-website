@@ -31,6 +31,8 @@ body {
     line-height:    1.5;
 }
 
+html { overflow-y: scroll; }
+
 /* 
  *      BASIC COMPONENTS
  */

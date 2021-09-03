@@ -19,7 +19,6 @@ ReactDOM.render(
             <Header />
             <Switch>
                 <Route path="/" exact component={Home}/>
-                <Route path="/blog" exact component={Blog}/>
                 <Route path="/now" exact component={Now}/>
                 <Route path="/notes" exact component={Notes}/>
                 <Route component={Error404} />
