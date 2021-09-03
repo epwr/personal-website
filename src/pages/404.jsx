@@ -9,7 +9,7 @@ function Error404() {
             <p>If this link worked before,</p>
             <p>The page was mislaid.</p>
         </div>
-        <div className="section">
+        <div className="section padded-bottom-medium">
             <Link to="/">Return Home</Link>
         </div>
         </>

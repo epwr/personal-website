@@ -6,7 +6,7 @@ import './index.css';
 import Home from './pages/Home.jsx';
 import Now from './pages/Now.jsx';
 import Blog from './pages/Blog.jsx';
-import Notes from './pages/Notes.jsx';
+import Files from './pages/Files.jsx';
 import Error404 from './pages/404.jsx';
 
 import Header from './components/Header.jsx';
@@ -20,7 +20,8 @@ ReactDOM.render(
             <Switch>
                 <Route path="/" exact component={Home}/>
                 <Route path="/now" exact component={Now}/>
-                <Route path="/notes" exact component={Notes}/>
+                <Route path="/blog" exact component={Blog}/>
+                <Route path="/files" exact component={Files}/>
                 <Route component={Error404} />
             </Switch>
             <Footer />
