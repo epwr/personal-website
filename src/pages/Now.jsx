@@ -2,7 +2,7 @@ function Now() {
     return (
         <div className="section flex-col">
             <p className="title-2">What I've Been Up To</p>
-            <p>After wrapping up my degree, I took a short break where I worked on a couple projects and had some fun in nature! In the last two months I've be able to:</p>
+            <p>After wrapping up my degree, I took a short break where I worked on a couple projects and had some fun in nature! In the last two months I:</p>
             <ul>
                 <li>Wrote a custom programming language called <a href="https://github.com/epwr/lazy-linear-algebra">Lazy Linear Algebra</a>. I chose to write each part of it
                 from scratch, so there's a bespoke lexer, parser, interpreter, and REPL. Everything is written in Ruby 3 to let me experiment with Ruby 3's pattern matching features.</li>
