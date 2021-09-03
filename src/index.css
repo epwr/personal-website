@@ -33,6 +33,7 @@ body {
 
 html { overflow-y: scroll; }
 
+* { margin: 0; box-sizing: border-box;}
 /* 
  *      BASIC COMPONENTS
  */
@@ -47,8 +48,15 @@ ul { margin-bottom: var(--size-medium); list-style-type: square; }
 li { margin-bottom: var(--size-small); }
 li:last-child { margin-bottom: 0; }
 
+img.main { width: 100%; padding-left: var(--size-large); padding-right: var(--size-large); }
 
-code { font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace; }
+.code { 
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace; 
+    margin: var(--size-medium);
+    padding: var(--size-small) var(--size-medium);
+    background-color: var(--main-text-color);
+    color: var(--background);
+}
 
 .title-1 { font-size: var(--text-size-x-large); line-height:  1em; ;font-weight: var(--text-weight-bold); }
 .title-2 { font-size: var(--text-size-large);   line-height:  1em; ;font-weight: var(--text-weight-bold); }
@@ -56,9 +64,7 @@ code { font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', mon
 
 .secondary-text { color: var(--secondary-text-color); }
 
-* {
-    margin: 0;
-}
+
 
 /*
  *      PAGE LEVEL COMPONENTS
