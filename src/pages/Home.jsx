@@ -1,3 +1,5 @@
+import {Link} from 'react-router-dom';
+
 function Home() {
     return (
         <div className="section flex-col">
@@ -11,6 +13,7 @@ function Home() {
             researching statistics, economic and political theory, writing, the science of sleep, marketing, sociology, and more.</p>
             <p>I have a B.Sc. in Computer Science from the University of Victoria, where I focused on building software infrastructure and understanding the 
             effects that software systems can have on our society.</p>
+            <p>You can find out what I've been up to recently on the <Link to="/now">Now</Link> page.</p>
         </div>
     );
 }
