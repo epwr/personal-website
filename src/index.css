@@ -50,12 +50,9 @@ ul { margin-left: var(--size-medium); padding-left: var(--size-small); margin-bo
 li { margin-bottom: var(--size-small); }
 li:last-child { margin-bottom: 0; }
 
-img.main { 
-    width: 100%; 
-    height: min( 386.25, calc( calc(vw - 200px) * 0.75));
-    padding-left: var(--size-xlarge);
-    padding-right: var(--size-xlarge); 
-    }
+img.main { width: 100%; height: min( 386.25, calc( calc(vw - 200px) * 0.75)); padding-left: var(--size-xlarge); padding-right: var(--size-xlarge); }
+@media (max-width: 715px){ img.main { padding-left: var(--size-large); padding-right: var(--size-large); } }
+
 
 .code { 
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace; 
