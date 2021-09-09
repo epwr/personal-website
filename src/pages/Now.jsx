@@ -11,14 +11,14 @@ function Now() {
                 <p>Lazy Linear Algebra is written in Ruby 3 to let me experiment with Ruby 3's pattern matching features.</p></li>
                 <li>Designed and built a deck for my parents. I'm really happy with how it turned out:</li>
             </ul>
-                <img className="main padded-bottom-medium" src="/img/parents-back-deck.jpg"></img>
+                <img className="main padded-bottom-medium" src="/img/parents-back-deck.jpg" alt="A large cedar deck in a sunny yard."></img>
                 <ul>
                 <li>Read a bunch of books, mostly focusing on 19th century history (specifically the post-Napoleonic War reconstruction period), but also including some ancient Roman history, economics, political philosophy, and statistics.</li>
                 <li>Spent time learning about <a className="external-link" href="http://paulgraham.com/weird.html">weird programming languages</a> (mostly Clojure) to grow my understanding of what a programming language can be.</li>
             </ul>
             <p className="title-2">What's Next</p>
-            <p>I'm trying to figure out how I want to spend my time moving forwards. One important part of this is figuring out I want to do for work. I'm interested in software 
-            infrastructure and DevOps, and am actively searching for the right job. The other is what side project to take on next. Most of the ideas on my to-do list 
+            <p>I'm trying to figure out how I want to spend my time moving forwards. One important part of this is figuring out I want to do for work. I'm interested in software
+            infrastructure and DevOps, and am actively searching for the right job. The other is what side project to take on next. Most of the ideas on my to-do list
             involve automating workflows, setting up open source tools on servers that I run, or building a product that I can share with the world.</p>
             <p>Another big decision I'm working on is where to live. Right now I'm living in Victoria, BC, but I'd love to move back to Montreal for a while, or somewhere new!</p>
         </div>

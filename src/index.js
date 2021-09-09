@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {BrowserRouter as Router, Route, Link, Switch} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 import './index.css';
 import Home from './pages/Home.jsx';
@@ -21,6 +21,7 @@ ReactDOM.render(
                 <Route path="/" exact component={Home}/>
                 <Route path="/now" exact component={Now}/>
                 <Route path="/blog" exact component={Blog}/>
+                <Route path="/blog/:slug" exact component={Blog}/>
                 <Route path="/files" exact component={Files}/>
                 <Route component={Error404} />
             </Switch>

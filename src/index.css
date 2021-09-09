@@ -90,7 +90,7 @@ img.main { width: 100%; height: min( 386.25, calc( calc(1vw - 200px) * 0.75)); p
 .flex-row {
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: flex-start;
 }
 
 /*
