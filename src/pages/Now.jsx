@@ -3,7 +3,7 @@ function Now() {
         <div className="section flex-col">
             <p>Last Updated: Sept 22, 2021</p>
             <p className="title-2">What I've Been Up To</p>
-            <p>Recently a lot of my time has been spent working on a new project: Easel Dashboard. Easel is a leightweight, flexible dashboard that is designed to make managing individual servers easy.
+            <p>Recently a lot of my time has been spent working on a new project: <a href="https://github.com/epwr/easel-dashboard">Easel Dashboard. Easel is a leightweight, flexible dashboard that is designed to make managing individual servers easy.
             Most of the existing dashboards focus on managing networks (which is great), but there's no easy tool that you can plug into whatever server you're in charge of and use to monitor the
             server's health, performance, and whatever other statistics you're interested in.</p>
             <p>Everything about the dashboard is customizable through a YAML file, which means you can copy your configuration between servers in an instant, or quickly edit the dashboard to give you the functionality
