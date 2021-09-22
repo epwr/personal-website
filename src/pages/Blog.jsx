@@ -10,7 +10,6 @@ const configuration: ConfigurationOptions = {
     accessKeyId: process.env.REACT_APP_AWS_ID
 }
 AWS.config.update(configuration)
-
 const ddbClient = new AWS.DynamoDB.DocumentClient()
 
 export const fetchData = (tableName) => {
@@ -30,10 +29,6 @@ function Blog({ match }) {
         return (
             <div className="section flex-col">
                 <p className="title-1">Recent Blog Posts</p>
-                <p>{fetchData('blog-posts')}</p>
-                <p>--{process.env.MY_AWS_REGION}--</p>
-                <p>--{process.env.MY_AWS_SECRET}--</p>
-                <p>--{process.env.MY_AWS_ID}--</p>
                 <BlogPostSummary />
                 <BlogPostSummary />
                 <BlogPostSummary />
