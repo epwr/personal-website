@@ -6,7 +6,7 @@ function Now() {
             <p>Recently a lot of my time has been spent working on a new project: Easel Dashboard. Easel is a leightweight, flexible dashboard that is designed to make managing individual servers easy.
             Most of the existing dashboards focus on managing networks (which is great), but there's no easy tool that you can plug into whatever server you're in charge of and use to monitor the
             server's health, performance, and whatever other statistics you're interested in.</p>
-            <p>Everything about the dashboard is customizable through a YAML file, which means you can copy your configuration between servers in an instance, or quickly edit the dashboard to give you the functionality
+            <p>Everything about the dashboard is customizable through a YAML file, which means you can copy your configuration between servers in an instant, or quickly edit the dashboard to give you the functionality
             you need.</p>
             <p>Easel is built in Ruby, and is currently being published as a Ruby Gem, although I'm looking into using  <a href="https://github.com/pmq20/ruby-packer">Ruby Packer</a> to build binaries to make
             it even easier to install.</p>
