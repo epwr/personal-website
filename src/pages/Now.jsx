@@ -13,13 +13,13 @@ function Now() {
 
             <p>Over the last couple months, I've been doing a lot of fun things. Specifically, I:</p>
             <ul className="padding-bottom-none">
-                <li><p>Wrote a custom programming language called <a href="https://github.com/epwr/lazy-linear-algebra">Lazy Linear Algebra</a>. I chose to write each part of it
+                <li>Wrote a custom programming language called <a href="https://github.com/epwr/lazy-linear-algebra">Lazy Linear Algebra</a>. I chose to write each part of it
                 from scratch, so there's a bespoke lexer, parser, interpreter, and REPL. The language provides a clean and flexible syntax, and everything you need for basic quantum
-                computation - from complex number addition to tensor multiplication.</p>
+                computation - from complex number addition to tensor multiplication.</li>
                 <li>Designed and built a deck for my parents. I'm really happy with how it turned out:</li>
             </ul>
-                <img className="main padded-bottom-medium" src="/img/parents-back-deck.jpg" alt="A large cedar deck in a sunny yard."></img>
-                <ul>
+            <img className="main padded-bottom-medium" src="/img/parents-back-deck.jpg" alt="A large cedar deck in a sunny yard."></img>
+            <ul>
                 <li>Read a bunch of books, mostly focusing on 19th century history (specifically the post-Napoleonic War reconstruction period), but also including some ancient Roman history, economics, political philosophy, and statistics.</li>
                 <li>Spent time learning about <a className="external-link" href="http://paulgraham.com/weird.html">weird programming languages</a> (mostly Clojure) to grow my understanding of what a programming language can be.</li>
             </ul>
