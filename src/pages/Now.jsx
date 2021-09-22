@@ -1,10 +1,19 @@
 function Now() {
     return (
         <div className="section flex-col">
-            <p>Last Updated: Sept 3, 2021</p>
+            <p>Last Updated: Sept 22, 2021</p>
             <p className="title-2">What I've Been Up To</p>
-            <p>After wrapping up my degree at the end of June, I took a short break where I worked on a couple projects and had some fun in nature! In the last few months I:</p>
+            <p>Recently a lot of my time has been spent working on a new project: Easel Dashboard. Easel is a leightweight, flexible dashboard that is designed to make managing individual servers easy.
+            Most of the existing dashboards focus on managing networks (which is great), but there's no easy tool that you can plug into whatever server you're in charge of and use to monitor the
+            server's health, performance, and whatever other statistics you're interested in.</p>
+            <p>Everything about the dashboard is customizable through a YAML file, which means you can copy your configuration between servers in an instance, or quickly edit the dashboard to give you the functionality
+            you need.</p>
+            <p>Easel is built in Ruby, and is currently being published as a Ruby Gem, although I'm looking into using  <a href="https://github.com/pmq20/ruby-packer">Ruby Packer</a> to build binaries to make
+            it even easier to install.</p>
+
+            <p>Over the last couple months, I've been doing a lot of fun things. Specifically, I:</p>
             <ul className="padding-bottom-none">
+                <l
                 <li><p>Wrote a custom programming language called <a href="https://github.com/epwr/lazy-linear-algebra">Lazy Linear Algebra</a>. I chose to write each part of it
                 from scratch, so there's a bespoke lexer, parser, interpreter, and REPL. The language provides a clean and flexible syntax, and everything you need for basic quantum
                 computation - from complex number addition to tensor multiplication.</p>
