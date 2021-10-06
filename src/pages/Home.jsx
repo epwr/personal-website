@@ -4,7 +4,8 @@ function Home() {
     return (
         <div className="section flex-col">
             <p className="title-2">About Me</p>
-            <p>Hi! I'm Eric Power. I'm a backend software developer and all round nerd who likes talking about everything from 19th century history to the engineering behind gutters.
+            <p>Hi!</p>
+            <p>I'm Eric Power. I'm a software developer and all round nerd who likes talking about everything from 19th century history to the engineering behind gutters.
             I'm perpetually curious, and try to create things that make the world a better place.</p>
             <p>As a developer, I'm passionate about security, automating workflows, and protecting data. I care about how people use the technology I create,
             and I want my tools to make the world a better place. I love simplicity, but I don't think that aesthetics should be more important than <a href="https://jnd.org/affordances_and_design/">design affordances</a>.</p>
