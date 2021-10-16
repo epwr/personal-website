@@ -1,0 +1,140 @@
+<svg viewBox="0 0 306 150">
+<rect x="1" y="87.21684991389589" width="2" height="12.78315008610412" style="fill: var(--accent-2)" />
+<rect x="3" y="92.71486924664168" width="2" height="7.285130753358319" style="fill: var(--accent-3)" />
+<text fontSize="4" x="0.5" y="105">60</text>
+<rect x="7" y="86.22334083984634" width="2" height="13.776659160153663" style="fill: var(--accent-2)" />
+<rect x="9" y="92.08321051080136" width="2" height="7.916789489198635" style="fill: var(--accent-3)" />
+<rect x="13" y="85.11944186868018" width="2" height="14.880558131319821" style="fill: var(--accent-2)" />
+<rect x="15" y="91.38838590137702" width="2" height="8.611614098622983" style="fill: var(--accent-3)" />
+<text fontSize="4" x="12.5" y="105">62</text>
+<rect x="19" y="83.97138693866737" width="2" height="16.028613061332628" style="fill: var(--accent-2)" />
+<rect x="21" y="90.63039541836864" width="2" height="9.369604581631364" style="fill: var(--accent-3)" />
+<rect x="25" y="82.69086413211463" width="2" height="17.30913586788537" style="fill: var(--accent-2)" />
+<rect x="27" y="89.78818377058155" width="2" height="10.211816229418453" style="fill: var(--accent-3)" />
+<text fontSize="4" x="24.5" y="105">64</text>
+<rect x="31" y="81.3220294078686" width="2" height="18.67797059213141" style="fill: var(--accent-2)" />
+<rect x="33" y="88.84069566682108" width="2" height="11.159304333178927" style="fill: var(--accent-3)" />
+<rect x="37" y="79.82072680708262" width="2" height="20.179273192917385" style="fill: var(--accent-2)" />
+<rect x="39" y="87.80898639828189" width="2" height="12.191013601718112" style="fill: var(--accent-3)" />
+<text fontSize="4" x="36.5" y="105">66</text>
+<rect x="43" y="78.1869563297567" width="2" height="21.8130436702433" style="fill: var(--accent-2)" />
+<rect x="45" y="86.693055964964" width="2" height="13.306944035036004" style="fill: var(--accent-3)" />
+<rect x="49" y="76.42071797589085" width="2" height="23.57928202410915" style="fill: var(--accent-2)" />
+<rect x="51" y="85.40868320208868" width="2" height="14.591316797911315" style="fill: var(--accent-3)" />
+<text fontSize="4" x="48.5" y="105">68</text>
+<rect x="55" y="74.52201174548506" width="2" height="25.477988254514948" style="fill: var(--accent-2)" />
+<rect x="57" y="84.01903398323999" width="2" height="15.980966016760012" style="fill: var(--accent-3)" />
+<rect x="61" y="72.44668167969267" width="2" height="27.553318320307326" style="fill: var(--accent-2)" />
+<rect x="63" y="82.50305301722322" width="2" height="17.496946982776773" style="fill: var(--accent-3)" />
+<text fontSize="4" x="60.5" y="105">70</text>
+<rect x="67" y="70.23888373736035" width="2" height="29.761116262639643" style="fill: var(--accent-2)" />
+<rect x="69" y="80.79757443045438" width="2" height="19.20242556954563" style="fill: var(--accent-3)" />
+<rect x="73" y="67.85446195964145" width="2" height="32.145538040358545" style="fill: var(--accent-2)" />
+<rect x="75" y="78.92365351412809" width="2" height="21.076346485871902" style="fill: var(--accent-3)" />
+<text fontSize="4" x="72.5" y="105">72</text>
+<rect x="79" y="65.29341634653596" width="2" height="34.70658365346403" style="fill: var(--accent-2)" />
+<rect x="81" y="76.88129026824441" width="2" height="23.11870973175559" style="fill: var(--accent-3)" />
+<rect x="85" y="62.53366891862057" width="2" height="37.46633108137943" style="fill: var(--accent-2)" />
+<rect x="87" y="74.60731881921927" width="2" height="25.39268118078073" style="fill: var(--accent-3)" />
+<text fontSize="4" x="84.5" y="105">74</text>
+<rect x="91" y="59.61937563474191" width="2" height="40.38062436525809" style="fill: var(--accent-2)" />
+<rect x="93" y="72.12279445824736" width="2" height="27.87720554175264" style="fill: var(--accent-3)" />
+<rect x="97" y="56.528458515476665" width="2" height="43.471541484523335" style="fill: var(--accent-2)" />
+<rect x="99" y="69.406661894134" width="2" height="30.593338105866003" style="fill: var(--accent-3)" />
+<text fontSize="4" x="96.5" y="105">76</text>
+<rect x="103" y="53.23883958140151" width="2" height="46.76116041859849" style="fill: var(--accent-2)" />
+<rect x="105" y="66.41681054448983" width="2" height="33.58318945551017" style="fill: var(--accent-3)" />
+<rect x="109" y="49.81675277078642" width="2" height="50.18324722921358" style="fill: var(--accent-2)" />
+<rect x="111" y="63.17429570050954" width="2" height="36.82570429949046" style="fill: var(--accent-3)" />
+<text fontSize="4" x="108.5" y="105">78</text>
+<rect x="115" y="46.26219808363138" width="2" height="53.73780191636862" style="fill: var(--accent-2)" />
+<rect x="117" y="59.63700677980376" width="2" height="40.36299322019624" style="fill: var(--accent-3)" />
+<rect x="121" y="42.55309754051309" width="2" height="57.44690245948691" style="fill: var(--accent-2)" />
+<rect x="123" y="55.84705436476187" width="2" height="44.15294563523813" style="fill: var(--accent-3)" />
+<text fontSize="4" x="120.5" y="105">80</text>
+<rect x="127" y="38.821919017971474" width="2" height="61.178080982028526" style="fill: var(--accent-2)" />
+<rect x="129" y="51.72021729060513" width="2" height="48.27978270939487" style="fill: var(--accent-3)" />
+<rect x="133" y="35.024506557159896" width="2" height="64.9754934428401" style="fill: var(--accent-2)" />
+<rect x="135" y="47.36177201330695" width="2" height="52.63822798669305" style="fill: var(--accent-3)" />
+<text fontSize="4" x="132.5" y="105">82</text>
+<rect x="139" y="31.337483993464915" width="2" height="68.66251600653509" style="fill: var(--accent-2)" />
+<rect x="141" y="42.729607950477956" width="2" height="57.270392049522044" style="fill: var(--accent-3)" />
+<rect x="145" y="27.716695368039908" width="2" height="72.28330463196009" style="fill: var(--accent-2)" />
+<rect x="147" y="37.90794626689687" width="2" height="62.09205373310313" style="fill: var(--accent-3)" />
+<text fontSize="4" x="144.5" y="105">84</text>
+<rect x="151" y="24.382920475118127" width="2" height="75.61707952488187" style="fill: var(--accent-2)" />
+<rect x="153" y="32.89678696256368" width="2" height="67.10321303743632" style="fill: var(--accent-3)" />
+<rect x="157" y="21.38031527354616" width="2" height="78.61968472645384" style="fill: var(--accent-2)" />
+<rect x="159" y="27.822461784646492" width="2" height="72.17753821535351" style="fill: var(--accent-3)" />
+<text fontSize="4" x="156.5" y="105">86</text>
+<rect x="163" y="18.885503598710642" width="2" height="81.11449640128936" style="fill: var(--accent-2)" />
+<rect x="165" y="22.769191897923946" width="2" height="77.23080810207605" style="fill: var(--accent-3)" />
+<rect x="169" y="17.00887534772818" width="2" height="82.99112465227182" style="fill: var(--accent-2)" />
+<rect x="171" y="17.947530214342862" width="2" height="82.05246978565714" style="fill: var(--accent-3)" />
+<text fontSize="4" x="168.5" y="105">88</text>
+<rect x="175" y="15.993288294255308" width="2" height="84.00671170574469" style="fill: var(--accent-2)" />
+<rect x="177" y="13.441697898681952" width="2" height="86.55830210131805" style="fill: var(--accent-3)" />
+<rect x="181" y="15.927054355985348" width="2" height="84.07294564401465" style="fill: var(--accent-2)" />
+<rect x="183" y="9.56752431886133" width="2" height="90.43247568113867" style="fill: var(--accent-3)" />
+<text fontSize="4" x="180.5" y="105">90</text>
+<rect x="187" y="17.030953327151494" width="2" height="82.9690466728485" style="fill: var(--accent-2)" />
+<rect x="189" y="6.5566176780224765" width="2" height="93.44338232197752" style="fill: var(--accent-3)" />
+<rect x="193" y="19.63615489910363" width="2" height="80.36384510089637" style="fill: var(--accent-2)" />
+<rect x="195" y="5.0195814208110505" width="2" height="94.98041857918895" style="fill: var(--accent-3)" />
+<text fontSize="4" x="192.5" y="105">92</text>
+<rect x="199" y="24.0738287631916" width="2" height="75.9261712368084" style="fill: var(--accent-2)" />
+<rect x="201" y="5.588074283067343" width="2" height="94.41192571693266" style="fill: var(--accent-3)" />
+<rect x="205" y="30.10111714575882" width="2" height="69.89888285424118" style="fill: var(--accent-2)" />
+<rect x="207" y="8.34631742957005" width="2" height="91.65368257042995" style="fill: var(--accent-3)" />
+<text fontSize="4" x="204.5" y="105">94</text>
+<rect x="211" y="37.386850355455465" width="2" height="62.613149644544535" style="fill: var(--accent-2)" />
+<rect x="213" y="13.31536615151387" width="2" height="86.68463384848613" style="fill: var(--accent-3)" />
+<rect x="217" y="45.77648253631828" width="2" height="54.22351746368172" style="fill: var(--accent-2)" />
+<rect x="219" y="21.526929717437994" width="2" height="78.473070282562" style="fill: var(--accent-3)" />
+<text fontSize="4" x="216.5" y="105">96</text>
+<rect x="223" y="54.38689451141431" width="2" height="45.61310548858569" style="fill: var(--accent-2)" />
+<rect x="225" y="29.75954857455679" width="2" height="70.24045142544321" style="fill: var(--accent-3)" />
+<rect x="229" y="62.84276063054709" width="2" height="37.15723936945291" style="fill: var(--accent-2)" />
+<rect x="231" y="38.918600244241375" width="2" height="61.081399755758625" style="fill: var(--accent-3)" />
+<text fontSize="4" x="228.5" y="105">98</text>
+<rect x="235" y="70.74667726409679" width="2" height="29.25332273590321" style="fill: var(--accent-2)" />
+<rect x="237" y="48.58297890259823" width="2" height="51.41702109740177" style="fill: var(--accent-3)" />
+<rect x="241" y="77.76747472071355" width="2" height="22.232525279286442" style="fill: var(--accent-2)" />
+<rect x="243" y="58.142081104981685" width="2" height="41.857918895018315" style="fill: var(--accent-3)" />
+<text fontSize="4" x="239.5" y="105">100</text>
+<rect x="247" y="83.7064511855875" width="2" height="16.293548814412503" style="fill: var(--accent-2)" />
+<rect x="249" y="67.15374573630353" width="2" height="32.846254263696466" style="fill: var(--accent-3)" />
+<rect x="253" y="88.49737272044862" width="2" height="11.502627279551374" style="fill: var(--accent-2)" />
+<rect x="255" y="75.15475639028088" width="2" height="24.845243609719123" style="fill: var(--accent-3)" />
+<text fontSize="4" x="251.5" y="105">102</text>
+<rect x="259" y="92.20647326356692" width="2" height="7.793526736433082" style="fill: var(--accent-2)" />
+<rect x="261" y="81.95561544616163" width="2" height="18.044384553838377" style="fill: var(--accent-3)" />
+<rect x="265" y="94.92206473263568" width="2" height="5.077935267364331" style="fill: var(--accent-2)" />
+<rect x="267" y="87.4299911567777" width="2" height="12.570008843222302" style="fill: var(--accent-3)" />
+<text fontSize="4" x="263.5" y="105">104</text>
+<rect x="271" y="96.82077096304147" width="2" height="3.1792290369585374" style="fill: var(--accent-2)" />
+<rect x="273" y="91.59893881332378" width="2" height="8.401061186676213" style="fill: var(--accent-3)" />
+<rect x="277" y="98.10129376959421" width="2" height="1.8987062304057931" style="fill: var(--accent-2)" />
+<rect x="279" y="94.60984545416264" width="2" height="5.390154545837369" style="fill: var(--accent-3)" />
+<text fontSize="4" x="275.5" y="105">106</text>
+<rect x="283" y="98.89610102883384" width="2" height="1.1038989711661589" style="fill: var(--accent-2)" />
+<rect x="285" y="96.69431928243567" width="2" height="3.305680717564324" style="fill: var(--accent-3)" />
+<rect x="289" y="99.38181657614695" width="2" height="0.6181834238530489" style="fill: var(--accent-2)" />
+<rect x="291" y="98.06291321008969" width="2" height="1.9370867899103044" style="fill: var(--accent-3)" />
+<text fontSize="4" x="287.5" y="105">108</text>
+<rect x="295" y="99.69090828807347" width="2" height="0.30909171192652446" style="fill: var(--accent-2)" />
+<rect x="297" y="98.90512485787679" width="2" height="1.0948751421232155" style="fill: var(--accent-3)" />
+<rect x="301" y="99.82337616461342" width="2" height="0.1766238353865854" style="fill: var(--accent-2)" />
+<rect x="303" y="99.41045184654904" width="2" height="0.5895481534509622" style="fill: var(--accent-3)" />
+<text fontSize="4" x="299.5" y="105">110</text>
+<line x1="20" y1="114" x2="20" y2="149" style="stroke: var(--accent-2); stroke-width: 3;" />
+<text fontSize="10" x="23" y="123" >Men</text>
+<text fontSize="8" x="23" y="132" style="fill: var(--secondary-text-color);"  >Median Age: 86</text>
+<text fontSize="8" x="23" y="140" style="fill: var(--secondary-text-color);"  >30th Percentile: 91</text>
+<text fontSize="8" x="23" y="148" style="fill: var(--secondary-text-color);"  >70th Percentile: 80</text>
+<line x1="100" y1="114" x2="100" y2="149" style="stroke: var(--accent-3); stroke-width: 3;" />
+<text fontSize="10" x="103" y="123">Women</text>
+<text fontSize="8" x="103" y="132" style="fill: var(--secondary-text-color);"  >Median Age: 89</text>
+<text fontSize="8" x="103" y="140" style="fill: var(--secondary-text-color);"  >30th Percentile: 93</text>
+<text fontSize="8" x="103" y="148" style="fill: var(--secondary-text-color);"  >70th Percentile: 84</text>
+</svg>

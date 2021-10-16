@@ -14,6 +14,8 @@ body {
     --main-text-color:      #000000;
     --secondary-text-color: #999999;
     --accent:               hsl(180, 100%, 25%);
+    --accent-2:             hsl(300, 100%, 25%);
+    --accent-3:             hsl(60, 100%, 25%);
 
     --text-size-small:      12pt;
     --text-size:            14pt;
@@ -68,6 +70,8 @@ img.main { width: 100%; height: min( 386.25, calc( calc(1vw - 200px) * 0.75)); p
 
 .secondary-text { color: var(--secondary-text-color); }
 
+td { text-align: center;}
+
 /*
  *      PAGE LEVEL CLASSES
  */
@@ -90,7 +94,7 @@ img.main { width: 100%; height: min( 386.25, calc( calc(1vw - 200px) * 0.75)); p
 .flex-row {
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: flex-start;
 }
 
 /*
