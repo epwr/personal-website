@@ -1,33 +1,16 @@
 function Now() {
     return (
         <div className="section flex-col">
-            <p>Last Updated: Sept 22, 2021</p>
-            <p className="title-2">What I've Been Up To</p>
-            <p>Recently a lot of my time has been spent working on a new project: <a href="https://github.com/epwr/easel-dashboard">Easel Dashboard</a>. Easel is a leightweight, flexible dashboard that is designed to make managing individual servers easy.
-            Most of the existing dashboards focus on managing networks (which is great), but there's no easy tool that you can plug into whatever server you're in charge of and use to monitor the
-            server's health, performance, and whatever other statistics you're interested in.</p>
-            <p>Everything about the dashboard is customizable through a YAML file, which means you can copy your configuration between servers in an instant, or quickly edit the dashboard to give you the functionality
-            you need.</p>
-            <p>Easel is built in Ruby, and is currently being published as a Ruby Gem, although I'm looking into using  <a href="https://github.com/pmq20/ruby-packer">Ruby Packer</a> to build binaries to make
-            it even easier to install.</p>
+            <p><emph>Last Updated: Nov 27, 2021</emph></p>
 
-            <p>Over the last couple months, I've been doing a lot of fun things. Specifically, I:</p>
-            <ul className="padding-bottom-none">
-                <li>Wrote a custom programming language called <a href="https://github.com/epwr/lazy-linear-algebra">Lazy Linear Algebra</a>. I chose to write each part of it
-                from scratch, so there's a bespoke lexer, parser, interpreter, and REPL. The language provides a clean and flexible syntax, and everything you need for basic quantum
-                computation - from complex number addition to tensor multiplication.</li>
-                <li>Designed and built a deck for my parents. I'm really happy with how it turned out:</li>
-            </ul>
-            <img className="main padded-bottom-medium" src="/img/parents-back-deck.jpg" alt="A large cedar deck in a sunny yard."></img>
-            <ul>
-                <li>Read a bunch of books, mostly focusing on 19th century history (specifically the post-Napoleonic War reconstruction period), but also including some ancient Roman history, economics, political philosophy, and statistics.</li>
-                <li>Spent time learning about <a className="external-link" href="http://paulgraham.com/weird.html">weird programming languages</a> (mostly Clojure) to grow my understanding of what a programming language can be.</li>
-            </ul>
-            <p className="title-2">What's Next</p>
-            <p>I'm trying to figure out how I want to spend my time moving forwards. One important part of this is figuring out I want to do for work. I'm interested in software
-            infrastructure and DevOps, and am actively searching for the right job. The other is what side project to take on next. Most of the ideas on my to-do list
-            involve automating workflows, setting up open source tools on servers that I run, or building a product that I can share with the world.</p>
-            <p>Another big decision I'm working on is where to live. Right now I'm living in Victoria, BC, but I'd love to move back to Montreal for a while, or somewhere new!</p>
+	    <p className="title-2">What I've Been Up To</p>
+
+	    <p>For the past year, I've been tinkering with the idea of a podcast. Less because I like the sound of my own voice, and more because I think that writing is one of the best ways to improve the clarity of thought; however, I find I love the medium of podcasting, and believe that I would enjoy the process of writing more if I were publishing it as a podcast. However, I can't find a good open source podcast server. Sorry RSS.com and all the other free podcast servers - I don't trust you with my data. I would absolutely support using <a href="https://transistor.fm">Transistor</a>, but it's more than I would want (I don't expect anyone to listen to my podcast, so I want an easy way to publish it that let's it live on the web). Or at least this is the tortured reasoning I'm following into my next project idea: an RSS server. I would love the ability to host one or more podcasts on my own server, and I'm extremely surprised that I can't find a half decent open source tool to do this.</p>
+
+	    <p>Oh well, that's the joy of being a software engineer; I get to build things I want. I've got a day scheduled for a personal hackathon on this and if I get anywhere I'll publish it.</p>
+		
+	    <p>Professionally, I started a new job at <a href="https://www.audette.io">Audette.io</a>, a startup that is automating the carbon reduction planning process for existing buildings. I've found the team to be amazing, and it's amazing to feel good about the purpose of your work. I've been working on building up our data ingestion pipeline, and am starting to spend time builing out components of our expert system.</p>
+	    
         </div>
     );
 }
